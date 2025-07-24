@@ -30,7 +30,7 @@ All software, code, designs, and content are **owned by Neekware Inc.** and prot
 
 Some tools require payment. Others may be offered at no cost.
 
-**Either way, you're paying—through money or feedback.**
+**Either way, you're paying — through money or insight and feedback.**
 
 We do **not** include third-party analytics, tracking, or telemetry. If we collect anything, it's because **you told us directly**—via comments, bug reports, or suggestions.
 
@@ -62,8 +62,7 @@ We may update these terms or our software at any time. Continued use means you a
 
 ## 8. Final Note
 
-If you didn't pay for it, you're still paying—with insight, not surveillance.
-
+If we gave it to you free of charge, you're still paying—with insight, not surveillance.
 No analytics. No tracking. Just software.
 
 ---
