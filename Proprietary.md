@@ -65,3 +65,9 @@ We may update these terms or our software at any time. Continued use means you a
 If you didn't pay for it, you're still paying—with insight, not surveillance.
 
 No analytics. No tracking. Just software.
+
+---
+
+## Contact
+
+If you have questions about these terms or need assistance, contact us at: **info@neekware.com**
