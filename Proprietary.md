@@ -46,8 +46,11 @@ We may suspend or revoke your license at any time for violations of these terms.
 
 ---
 
-## 7. Governing Law  
-These terms are governed by the laws of **[insert jurisdiction]**, and disputes shall be resolved exclusively in the courts of **[insert jurisdiction]**.  
+## 7. Governing Law and Jurisdiction
+
+These terms are governed by the laws of the Province of Ontario, Canada, without regard to conflict of law principles. You agree that any dispute, claim, or proceeding arising out of or relating to the software shall be subject to the exclusive jurisdiction of the provincial and federal courts located in Ontario, Canada.
+
+If applicable law in your jurisdiction does not allow exclusive choice of forum or governing law, these terms will apply to the maximum extent permitted. Neekware Inc. retains the right to seek injunctive or equitable relief in any court of competent jurisdiction to prevent unauthorized use, disclosure, or infringement of its intellectual property or confidential information.
 
 ---
 
