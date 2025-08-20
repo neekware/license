@@ -1,72 +1,65 @@
-# Neekware Inc. – Terms and Conditions of Use
+# Neekware Inc. – Software License Agreement  
 
 **Effective Date:** 2025  
-**Owner:** Neekware Inc. ("we", "our", or "Neekware")
+**Owner:** Neekware Inc. ("we", "our", "Neekware")  
 
-By downloading, installing, or using any software or tools from Neekware Inc., **you agree to the following terms**:
-
----
-
-## 1. License
-
-You are granted a **limited, non-transferable, non-sublicensable license** to use the software for personal or internal business purposes only.
-
-You **may not**:
-- Copy, share, sell, or distribute the software
-- Modify, reverse-engineer, or decompile it
-- Use it to build a competing product
-
-All rights not expressly granted are reserved by Neekware Inc.
+By downloading, installing, or using any Neekware software or tools, **you agree to these terms**:  
 
 ---
 
-## 2. Ownership
+## 1. License Grant  
+You are granted a **limited, revocable, non-transferable, non-sublicensable license** to use the software solely for your personal or internal business purposes.  
 
-All software, code, designs, and content are **owned by Neekware Inc.** and protected by copyright and trademark laws. You do **not** acquire any ownership rights.
+You **may not**:  
+- Copy, share, sell, or distribute the software  
+- Modify, adapt, reverse-engineer, decompile, or disassemble it (except where required by law for interoperability, and only with our prior written consent)  
+- Use the software to develop a competing product  
 
----
-
-## 3. Fees and Use
-
-Some tools require payment. Others may be offered at no cost.
-
-**Either way, you're paying — through money or insight and feedback.**
-
-We do **not** include third-party analytics, tracking, or telemetry. If we collect anything, it's because **you told us directly**—via comments, bug reports, or suggestions.
+All rights not expressly granted remain with Neekware.  
 
 ---
 
-## 4. No Warranty
+## 2. Ownership and Confidentiality  
+The software, code, designs, and related materials are the **exclusive property of Neekware Inc.** and are protected by copyright, trademark, and trade secret laws.  
 
-The software is provided **"as is"** with no warranties, express or implied. We make no guarantees about performance, availability, or suitability.
-
----
-
-## 5. Liability
-
-Neekware Inc. is **not liable** for any damages, data loss, or disruptions caused by use of our tools.
+You agree not to disclose, extract, or attempt to derive confidential or proprietary information contained in the software.  
 
 ---
 
-## 6. Termination
-
-We may suspend or revoke your license at any time for violations of these terms. Upon termination, you must delete all copies of the software.
-
----
-
-## 7. Changes
-
-We may update these terms or our software at any time. Continued use means you accept the latest version.
+## 3. Fees  
+Some tools may require payment, others may be offered at no cost. In either case, your use is subject to these license restrictions.  
 
 ---
 
-## 8. Final Note
-
-If we gave it to you free of charge, you're still paying—with insight, not surveillance.
-No analytics. No tracking. Just software.
+## 4. No Warranty  
+The software is provided **"as is"** without warranties of any kind, express or implied, including merchantability, fitness for a particular purpose, or non-infringement.  
 
 ---
 
-## Contact
+## 5. Limitation of Liability  
+To the maximum extent permitted by law, Neekware is **not liable** for damages, losses, or disruptions arising from the use or inability to use our software.  
 
-If you have questions about these terms or need assistance, contact us at: **info@neekware.com**
+---
+
+## 6. Termination  
+We may suspend or revoke your license at any time for violations of these terms. Upon termination, you must immediately stop using the software and delete all copies.  
+
+---
+
+## 7. Governing Law  
+These terms are governed by the laws of **[insert jurisdiction]**, and disputes shall be resolved exclusively in the courts of **[insert jurisdiction]**.  
+
+---
+
+## 8. Remedies  
+You agree that unauthorized use, copying, or disclosure of the software would cause irreparable harm, and Neekware may seek injunctive relief in addition to other legal remedies.  
+
+---
+
+## 9. Changes  
+We may update these terms at any time. Continued use means you accept the latest version.  
+
+---
+
+## Contact  
+For questions about these terms: **info@neekware.com**  
